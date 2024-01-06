@@ -11,8 +11,22 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jan 2024 01:50:20 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jan 2024 05:13:11 +0900</lastBuildDate>
     <atom:link href="https://246p.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Feeling</title>
+      <link>https://246p.github.io/post/feeling/</link>
+      <pubDate>Sun, 07 Jan 2024 05:13:11 +0900</pubDate>
+      <guid>https://246p.github.io/post/feeling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Papermod 설정하기</title>
+      <link>https://246p.github.io/blog/hugo_2/</link>
+      <pubDate>Sun, 07 Jan 2024 05:08:36 +0900</pubDate>
+      <guid>https://246p.github.io/blog/hugo_2/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Test2</title>
       <link>https://246p.github.io/hacking/test2/</link>
@@ -25,14 +39,18 @@
       <link>https://246p.github.io/hacking/test/</link>
       <pubDate>Sun, 07 Jan 2024 01:31:25 +0900</pubDate>
       <guid>https://246p.github.io/hacking/test/</guid>
-      <description>부제목</description>
+      <description></description>
     </item>
     <item>
-      <title>Install_hugo</title>
+      <title>Hugo 시작하기</title>
       <link>https://246p.github.io/blog/install_hugo/</link>
       <pubDate>Sat, 06 Jan 2024 18:12:26 +0900</pubDate>
       <guid>https://246p.github.io/blog/install_hugo/</guid>
-      <description>부제목</description>
+      <description>들어가며 먼저 github.io를 이용하여 블로그를 구축하기위해서 SSG(Static Site Generator)를 정해야 한다. 대표적으로 Jkelly(Ruby), Eleventy(Node.js), Hugo(Go) 중 Hugo를 선택하였다. 한국어 레퍼런스가 부족하다는 단점이 있지만 속도측면에서 가장 빠르기 때문이다.
+이 글은 Mac 사용자를 기준으로 작성되었다.
+hugo 설치하기 먼저 home brew를 이용하여 hugo를 설치해야 한다.
+brew install hugo 만약 home brew가 설치되어 있지 않다면 다음 명령을 사용하자
+/bin/bash -c &amp;#34;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)&amp;#34; github repository 만들기 hugo 를 이용하여 사이트를 제작하기 위해서는 repository 2개가 필요하다.</description>
     </item>
     <item>
       <title>블로그를 시작하면서</title>

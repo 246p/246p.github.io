@@ -11,27 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jan 2024 01:50:20 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jan 2024 05:13:11 +0900</lastBuildDate>
     <atom:link href="https://246p.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tag</title>
       <link>https://246p.github.io/tags/tag/</link>
-      <pubDate>Sun, 07 Jan 2024 01:50:20 +0900</pubDate>
+      <pubDate>Sun, 07 Jan 2024 05:13:11 +0900</pubDate>
       <guid>https://246p.github.io/tags/tag/</guid>
       <description></description>
     </item>
     <item>
-      <title>blog</title>
+      <title>Blog</title>
       <link>https://246p.github.io/tags/blog/</link>
-      <pubDate>Sat, 06 Jan 2024 18:12:26 +0900</pubDate>
+      <pubDate>Sun, 07 Jan 2024 05:08:36 +0900</pubDate>
       <guid>https://246p.github.io/tags/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
       <link>https://246p.github.io/tags/hugo/</link>
-      <pubDate>Sat, 06 Jan 2024 18:12:26 +0900</pubDate>
+      <pubDate>Sun, 07 Jan 2024 05:08:36 +0900</pubDate>
       <guid>https://246p.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Papermod</title>
+      <link>https://246p.github.io/tags/papermod/</link>
+      <pubDate>Sun, 07 Jan 2024 05:08:36 +0900</pubDate>
+      <guid>https://246p.github.io/tags/papermod/</guid>
       <description></description>
     </item>
   </channel>
