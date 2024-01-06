@@ -11,14 +11,6 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jan 2024 14:39:45 +0900</lastBuildDate>
     <atom:link href="https://246p.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hugo</title>
-      <link>https://246p.github.io/post/blog_1/</link>
-      <pubDate>Sat, 06 Jan 2024 14:39:45 +0900</pubDate>
-      <guid>https://246p.github.io/post/blog_1/</guid>
-      <description>블로그를 시작하면서</description>
-    </item>
   </channel>
 </rss>

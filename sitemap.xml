@@ -2,27 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://246p.github.io/tags/blog/</loc>
-    <lastmod>2024-01-06T14:39:45+09:00</lastmod>
-  </url><url>
-    <loc>https://246p.github.io/tags/github/</loc>
-    <lastmod>2024-01-06T14:39:45+09:00</lastmod>
-  </url><url>
-    <loc>https://246p.github.io/tags/hugo/</loc>
-    <lastmod>2024-01-06T14:39:45+09:00</lastmod>
-  </url><url>
-    <loc>https://246p.github.io/post/blog_1/</loc>
-    <lastmod>2024-01-06T14:39:45+09:00</lastmod>
+    <loc>https://246p.github.io/categories/</loc>
   </url><url>
     <loc>https://246p.github.io/</loc>
-    <lastmod>2024-01-06T14:39:45+09:00</lastmod>
-  </url><url>
-    <loc>https://246p.github.io/post/</loc>
-    <lastmod>2024-01-06T14:39:45+09:00</lastmod>
   </url><url>
     <loc>https://246p.github.io/tags/</loc>
-    <lastmod>2024-01-06T14:39:45+09:00</lastmod>
-  </url><url>
-    <loc>https://246p.github.io/categories/</loc>
   </url>
 </urlset>
