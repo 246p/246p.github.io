@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://246p.github.iohu/sitemap.xml
+Sitemap: https://246p.github.io/sitemap.xml
