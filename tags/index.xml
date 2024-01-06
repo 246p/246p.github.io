@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ExampleSite</title>
+    <link>https://246p.github.iohu/tags/</link>
+    <description>Recent content in Tags on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>https://246p.github.iohu/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://246p.github.iohu/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 06 Jan 2024 14:39:45 +0900</lastBuildDate>
+    <atom:link href="https://246p.github.iohu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://246p.github.iohu/tags/blog/</link>
+      <pubDate>Sat, 06 Jan 2024 14:39:45 +0900</pubDate>
+      <guid>https://246p.github.iohu/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>github</title>
+      <link>https://246p.github.iohu/tags/github/</link>
+      <pubDate>Sat, 06 Jan 2024 14:39:45 +0900</pubDate>
+      <guid>https://246p.github.iohu/tags/github/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://246p.github.iohu/tags/hugo/</link>
+      <pubDate>Sat, 06 Jan 2024 14:39:45 +0900</pubDate>
+      <guid>https://246p.github.iohu/tags/hugo/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
