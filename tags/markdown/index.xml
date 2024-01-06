@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on Junlog</title>
+    <link>https://246p.github.io/tags/markdown/</link>
+    <description>Recent content in Markdown on Junlog</description>
+    <image>
+      <title>Junlog</title>
+      <url>https://246p.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://246p.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 Jan 2024 05:05:14 +0900</lastBuildDate>
+    <atom:link href="https://246p.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2. MarkDown 문법</title>
+      <link>https://246p.github.io/blog/hugo_2/</link>
+      <pubDate>Sun, 07 Jan 2024 05:05:14 +0900</pubDate>
+      <guid>https://246p.github.io/blog/hugo_2/</guid>
+      <description>0. Markdown이란 github에 들어가본 사람이라면 한번쯤 .md 확장자 파일을 본 적 있을 것이다. markdown은 간단한 문법으로 쉽게 쓰고 읽을 수 있다. 다음과 같은 장단점이 존재한다.
+장점
+간결하다 텍스트 에디터로 쉽게 작성 가능하다. 다양한 프로그램과 플랫폼에서 활용할 수 있다. 단점
+표준이 없다. 모든 HTML을 표기할 수 없다. 1. 문법 Header 다음과 같이 제목을 표기할 수 있다.
+# Header 1 ## Header 2 ### Header 3 Header 1 Header 2 Header 3 BlockQuote &amp;gt;first &amp;gt; &amp;gt; second &amp;gt; &amp;gt; &amp;gt; third first</description>
+    </item>
+  </channel>
+</rss>

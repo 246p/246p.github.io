@@ -18,18 +18,30 @@
       <link>https://246p.github.io/blog/hugo_3/</link>
       <pubDate>Sun, 07 Jan 2024 05:08:36 +0900</pubDate>
       <guid>https://246p.github.io/blog/hugo_3/</guid>
-      <description>게시물 작성 default.md </description>
+      <description>1. hugo.yaml 사이트의 전반적인 설정을 저장하는 설정이다. 예시 코드
+baseURL: &amp;#34;https://246p.github.io/&amp;#34; #기본주소 title: Junlog #이름 paginate: 5 theme: PaperMod enableRobotsTXT: true buildDrafts: false buildFuture: false buildExpired: false googleAnalytics: UA-123-45 minify: disableXML: true minifyOutput: true params: env: production # to enable google analytics, opengraph, twitter-cards and schema. title: Junlog description: &amp;#34;MJ&amp;#39;s Study Log&amp;#34; keywords: [Blog, Portfolio, PaperMod] author: Kim-Minjoon # author: [&amp;#34;Me&amp;#34;, &amp;#34;You&amp;#34;] # multiple authors images: [&amp;#34;&amp;lt;link or path of image for opengraph, twitter-cards&amp;gt;&amp;#34;] DateFormat: &amp;#34;January 2, 2006&amp;#34; defaultTheme: dark # dark, light disableThemeToggle: true sectionPagesMenu: true ShowReadingTime: false ShowShareButtons: false ShowPostNavLinks: true ShowBreadCrumbs: true ShowCodeCopyButtons: true ShowWordCount: false ShowRssButtonInSectionTermList: true UseHugoToc: true disableSpecial1stPost: false disableScrollToTop: false comments: false hidemeta: false hideSummary: false ShowToc: true TocOpen: true assets: # disableHLJS: true # to disable highlight.</description>
+    </item>
+    <item>
+      <title>2. MarkDown 문법</title>
+      <link>https://246p.github.io/blog/hugo_2/</link>
+      <pubDate>Sun, 07 Jan 2024 05:05:14 +0900</pubDate>
+      <guid>https://246p.github.io/blog/hugo_2/</guid>
+      <description>0. Markdown이란 github에 들어가본 사람이라면 한번쯤 .md 확장자 파일을 본 적 있을 것이다. markdown은 간단한 문법으로 쉽게 쓰고 읽을 수 있다. 다음과 같은 장단점이 존재한다.
+장점
+간결하다 텍스트 에디터로 쉽게 작성 가능하다. 다양한 프로그램과 플랫폼에서 활용할 수 있다. 단점
+표준이 없다. 모든 HTML을 표기할 수 없다. 1. 문법 Header 다음과 같이 제목을 표기할 수 있다.
+# Header 1 ## Header 2 ### Header 3 Header 1 Header 2 Header 3 BlockQuote &amp;gt;first &amp;gt; &amp;gt; second &amp;gt; &amp;gt; &amp;gt; third first</description>
     </item>
     <item>
       <title>1. Hugo 시작</title>
       <link>https://246p.github.io/blog/hugo_1/</link>
       <pubDate>Sat, 06 Jan 2024 18:12:26 +0900</pubDate>
       <guid>https://246p.github.io/blog/hugo_1/</guid>
-      <description>들어가며 먼저 github.io를 이용하여 블로그를 구축하기위해서 SSG(Static Site Generator)를 정해야 한다. 대표적으로 Jkelly(Ruby), Eleventy(Node.js), Hugo(Go) 중 Hugo를 선택하였다. 한국어 레퍼런스가 부족하다는 단점이 있지만 속도측면에서 가장 빠르기 때문이다.
+      <description>0. 들어가며 먼저 github.io를 이용하여 블로그를 구축하기위해서 SSG(Static Site Generator)를 정해야 한다. 대표적으로 Jkelly(Ruby), Eleventy(Node.js), Hugo(Go) 중 Hugo를 선택하였다. 한국어 레퍼런스가 부족하다는 단점이 있지만 속도측면에서 가장 빠르기 때문이다.
 이 글은 Mac 사용자를 기준으로 작성되었다.
-hugo 설치하기 먼저 home brew를 이용하여 hugo를 설치해야 한다.
+1. hugo 설치하기 먼저 home brew를 이용하여 hugo를 설치해야 한다.
 brew install hugo 만약 home brew가 설치되어 있지 않다면 다음 명령을 사용하자
-/bin/bash -c &amp;#34;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)&amp;#34; github repository 만들기 hugo 를 이용하여 사이트를 제작하기 위해서는 repository 2개가 필요하다.</description>
+/bin/bash -c &amp;#34;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)&amp;#34; 2. github repository 만들기 hugo 를 이용하여 사이트를 제작하기 위해서는 repository 2개가 필요하다.</description>
     </item>
     <item>
       <title>블로그를 시작하면서</title>
