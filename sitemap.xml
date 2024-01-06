@@ -8,9 +8,6 @@
     <loc>https://246p.github.io/tags/blog/</loc>
     <lastmod>2024-01-07T05:52:58+09:00</lastmod>
   </url><url>
-    <loc>https://246p.github.io/blog/</loc>
-    <lastmod>2024-01-07T05:52:58+09:00</lastmod>
-  </url><url>
     <loc>https://246p.github.io/tags/hugo/</loc>
     <lastmod>2024-01-07T05:52:58+09:00</lastmod>
   </url><url>
@@ -18,6 +15,9 @@
     <lastmod>2024-01-07T05:52:58+09:00</lastmod>
   </url><url>
     <loc>https://246p.github.io/tags/papermod/</loc>
+    <lastmod>2024-01-07T05:52:58+09:00</lastmod>
+  </url><url>
+    <loc>https://246p.github.io/post/</loc>
     <lastmod>2024-01-07T05:52:58+09:00</lastmod>
   </url><url>
     <loc>https://246p.github.io/tags/</loc>
@@ -32,26 +32,13 @@
     <loc>https://246p.github.io/tags/markdown/</loc>
     <lastmod>2024-01-07T05:05:14+09:00</lastmod>
   </url><url>
-    <loc>https://246p.github.io/hacking/</loc>
-    <lastmod>2024-01-07T01:50:20+09:00</lastmod>
-  </url><url>
-    <loc>https://246p.github.io/tags/tag/</loc>
-    <lastmod>2024-01-07T01:50:20+09:00</lastmod>
-  </url><url>
-    <loc>https://246p.github.io/hacking/test2/</loc>
-    <lastmod>2024-01-07T01:50:20+09:00</lastmod>
-  </url><url>
-    <loc>https://246p.github.io/hacking/test/</loc>
-    <lastmod>2024-01-07T01:31:25+09:00</lastmod>
-  </url><url>
     <loc>https://246p.github.io/blog/hugo_1/</loc>
     <lastmod>2024-01-06T18:12:26+09:00</lastmod>
   </url><url>
-    <loc>https://246p.github.io/post/</loc>
+    <loc>https://246p.github.io/blog/hugo_0/</loc>
     <lastmod>2024-01-06T14:39:45+09:00</lastmod>
   </url><url>
-    <loc>https://246p.github.io/post/blog_1/</loc>
-    <lastmod>2024-01-06T14:39:45+09:00</lastmod>
+    <loc>https://246p.github.io/archive/</loc>
   </url><url>
     <loc>https://246p.github.io/categories/</loc>
   </url><url>

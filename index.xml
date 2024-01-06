@@ -49,22 +49,6 @@ menu 시스템을 다시 한번 손봐야 할것 같음
 1 2 3 # Header 1 ## Header 2 ### Header 3 Header 1 Header 2 Header 3 BlockQuote 1 2 3 &amp;gt;first &amp;gt; &amp;gt; second &amp;gt; &amp;gt; &amp;gt; third first</description>
     </item>
     <item>
-      <title>Test2</title>
-      <link>https://246p.github.io/hacking/test2/</link>
-      <pubDate>Sun, 07 Jan 2024 01:50:20 +0900</pubDate>
-      <guid>https://246p.github.io/hacking/test2/</guid>
-      <description>부제목</description>
-    </item>
-    <item>
-      <title>Test</title>
-      <link>https://246p.github.io/hacking/test/</link>
-      <pubDate>Sun, 07 Jan 2024 01:31:25 +0900</pubDate>
-      <guid>https://246p.github.io/hacking/test/</guid>
-      <description>issue 1 권한없으면 안됨
-issue 2 느림
-repo 빠름, 권한필요없음 번거로움</description>
-    </item>
-    <item>
       <title>1. Hugo 시작</title>
       <link>https://246p.github.io/blog/hugo_1/</link>
       <pubDate>Sat, 06 Jan 2024 18:12:26 +0900</pubDate>
@@ -77,9 +61,9 @@ repo 빠름, 권한필요없음 번거로움</description>
     </item>
     <item>
       <title>블로그를 시작하면서</title>
-      <link>https://246p.github.io/post/blog_1/</link>
+      <link>https://246p.github.io/blog/hugo_0/</link>
       <pubDate>Sat, 06 Jan 2024 14:39:45 +0900</pubDate>
-      <guid>https://246p.github.io/post/blog_1/</guid>
+      <guid>https://246p.github.io/blog/hugo_0/</guid>
       <description>2학년 겨울 방학에 들어가기 앞서 나만의 공부 내용을 정리할만한 블로그를 만들어 보고싶다는 생각을 하게 되었다.
 개인 서버를 이용하여 웹사이트를 구축할까도 생각해보았지만 도메인 호스팅 비용, 서버유지관리 등 측면에서 github.io를 선택하게 되었다.
 앞으로 주 1회 이상 매주 공부한 내용을 포스팅할 예정이다.</description>

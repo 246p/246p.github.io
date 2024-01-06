@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Junlog</title>
+    <title>blog on Junlog</title>
     <link>https://246p.github.io/tags/blog/</link>
-    <description>Recent content in Blog on Junlog</description>
+    <description>Recent content in blog on Junlog</description>
     <image>
       <title>Junlog</title>
       <url>https://github.com/246p/blog/blob/main/Hugo/blog/Cover.png?raw=true</url>
@@ -61,9 +61,9 @@ menu 시스템을 다시 한번 손봐야 할것 같음
     </item>
     <item>
       <title>블로그를 시작하면서</title>
-      <link>https://246p.github.io/post/blog_1/</link>
+      <link>https://246p.github.io/blog/hugo_0/</link>
       <pubDate>Sat, 06 Jan 2024 14:39:45 +0900</pubDate>
-      <guid>https://246p.github.io/post/blog_1/</guid>
+      <guid>https://246p.github.io/blog/hugo_0/</guid>
       <description>2학년 겨울 방학에 들어가기 앞서 나만의 공부 내용을 정리할만한 블로그를 만들어 보고싶다는 생각을 하게 되었다.
 개인 서버를 이용하여 웹사이트를 구축할까도 생각해보았지만 도메인 호스팅 비용, 서버유지관리 등 측면에서 github.io를 선택하게 되었다.
 앞으로 주 1회 이상 매주 공부한 내용을 포스팅할 예정이다.</description>
