@@ -22,7 +22,7 @@
 장점
 간결하다 텍스트 에디터로 쉽게 작성 가능하다. 다양한 프로그램과 플랫폼에서 활용할 수 있다. 단점
 표준이 없다. 모든 HTML을 표기할 수 없다. 1. 문법 Header 다음과 같이 제목을 표기할 수 있다.
-# Header 1 ## Header 2 ### Header 3 Header 1 Header 2 Header 3 BlockQuote &amp;gt;first &amp;gt; &amp;gt; second &amp;gt; &amp;gt; &amp;gt; third first</description>
+1 2 3 # Header 1 ## Header 2 ### Header 3 Header 1 Header 2 Header 3 BlockQuote 1 2 3 &amp;gt;first &amp;gt; &amp;gt; second &amp;gt; &amp;gt; &amp;gt; third first</description>
     </item>
   </channel>
 </rss>

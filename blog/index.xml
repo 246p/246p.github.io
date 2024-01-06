@@ -35,7 +35,7 @@ menu 시스템을 다시 한번 손봐야 할것 같음
       <pubDate>Sun, 07 Jan 2024 05:08:36 +0900</pubDate>
       <guid>https://246p.github.io/blog/hugo_3/</guid>
       <description>1. hugo.yaml 사이트의 전반적인 설정을 저장하는 설정이다. 예시 코드
-baseURL: &amp;#34;https://246p.github.io/&amp;#34; #기본주소 title: Junlog #이름 paginate: 5 theme: PaperMod enableRobotsTXT: true buildDrafts: false buildFuture: false buildExpired: false googleAnalytics: UA-123-45 minify: disableXML: true minifyOutput: true params: env: production # to enable google analytics, opengraph, twitter-cards and schema. title: Junlog description: &amp;#34;MJ&amp;#39;s Study Log&amp;#34; keywords: [Blog, Portfolio, PaperMod] author: Kim-Minjoon # author: [&amp;#34;Me&amp;#34;, &amp;#34;You&amp;#34;] # multiple authors images: [&amp;#34;&amp;lt;link or path of image for opengraph, twitter-cards&amp;gt;&amp;#34;] DateFormat: &amp;#34;January 2, 2006&amp;#34; defaultTheme: dark # dark, light disableThemeToggle: true sectionPagesMenu: true ShowReadingTime: false ShowShareButtons: false ShowPostNavLinks: true ShowBreadCrumbs: true ShowCodeCopyButtons: true ShowWordCount: false ShowRssButtonInSectionTermList: true UseHugoToc: true disableSpecial1stPost: false disableScrollToTop: false comments: false hidemeta: false hideSummary: false ShowToc: true TocOpen: true assets: # disableHLJS: true # to disable highlight.</description>
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 baseURL: &amp;#34;https://246p.</description>
     </item>
     <item>
       <title>2. MarkDown 문법</title>
@@ -46,7 +46,7 @@ baseURL: &amp;#34;https://246p.github.io/&amp;#34; #기본주소 title: Junlog #
 장점
 간결하다 텍스트 에디터로 쉽게 작성 가능하다. 다양한 프로그램과 플랫폼에서 활용할 수 있다. 단점
 표준이 없다. 모든 HTML을 표기할 수 없다. 1. 문법 Header 다음과 같이 제목을 표기할 수 있다.
-# Header 1 ## Header 2 ### Header 3 Header 1 Header 2 Header 3 BlockQuote &amp;gt;first &amp;gt; &amp;gt; second &amp;gt; &amp;gt; &amp;gt; third first</description>
+1 2 3 # Header 1 ## Header 2 ### Header 3 Header 1 Header 2 Header 3 BlockQuote 1 2 3 &amp;gt;first &amp;gt; &amp;gt; second &amp;gt; &amp;gt; &amp;gt; third first</description>
     </item>
     <item>
       <title>1. Hugo 시작</title>
@@ -56,8 +56,8 @@ baseURL: &amp;#34;https://246p.github.io/&amp;#34; #기본주소 title: Junlog #
       <description>0. 들어가며 먼저 github.io를 이용하여 블로그를 구축하기위해서 SSG(Static Site Generator)를 정해야 한다. 대표적으로 Jkelly(Ruby), Eleventy(Node.js), Hugo(Go) 중 Hugo를 선택하였다. 한국어 레퍼런스가 부족하다는 단점이 있지만 속도측면에서 가장 빠르기 때문이다.
 이 글은 Mac 사용자를 기준으로 작성되었다.
 1. hugo 설치하기 먼저 home brew를 이용하여 hugo를 설치해야 한다.
-brew install hugo 만약 home brew가 설치되어 있지 않다면 다음 명령을 사용하자
-/bin/bash -c &amp;#34;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)&amp;#34; 2. github repository 만들기 hugo 를 이용하여 사이트를 제작하기 위해서는 repository 2개가 필요하다.</description>
+1 brew install hugo 만약 home brew가 설치되어 있지 않다면 다음 명령을 사용하자
+1 /bin/bash -c &amp;#34;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)&amp;#34; 2. github repository 만들기 hugo 를 이용하여 사이트를 제작하기 위해서는 repository 2개가 필요하다.</description>
     </item>
   </channel>
 </rss>
