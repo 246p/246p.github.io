@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tag on Junlog</title>
-    <link>https://246p.github.io/tags/tag/</link>
-    <description>Recent content in Tag on Junlog</description>
+    <title>Hackings on Junlog</title>
+    <link>https://246p.github.io/hacking/</link>
+    <description>Recent content in Hackings on Junlog</description>
     <image>
       <title>Junlog</title>
       <url>https://246p.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,19 +12,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 07 Jan 2024 01:22:47 +0900</lastBuildDate>
-    <atom:link href="https://246p.github.io/tags/tag/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://246p.github.io/hacking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hack</title>
       <link>https://246p.github.io/hacking/hack/</link>
       <pubDate>Sun, 07 Jan 2024 01:22:47 +0900</pubDate>
       <guid>https://246p.github.io/hacking/hack/</guid>
-      <description>부제목</description>
-    </item>
-    <item>
-      <title>Aa</title>
-      <link>https://246p.github.io/post/study/aa/</link>
-      <pubDate>Sun, 07 Jan 2024 01:17:11 +0900</pubDate>
-      <guid>https://246p.github.io/post/study/aa/</guid>
       <description>부제목</description>
     </item>
   </channel>
