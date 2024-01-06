@@ -11,8 +11,24 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jan 2024 05:08:36 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jan 2024 05:52:58 +0900</lastBuildDate>
     <atom:link href="https://246p.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4. 중간 점검</title>
+      <link>https://246p.github.io/blog/hugo_4/</link>
+      <pubDate>Sun, 07 Jan 2024 05:52:58 +0900</pubDate>
+      <guid>https://246p.github.io/blog/hugo_4/</guid>
+      <description>1. 소감 하루동안 &amp;ldquo;돌아는 가는&amp;rdquo; 웹사이트를 만들었다.
+웹에 대한 지식이 전무하기 때문에 많은 시행착오가 있었던것 같다.
+truouble shooting 과정에서 Papermod 위키를 10번은 읽은것 같다.
+아직 다음과 같이 해결해야할 문제가 남아있다.
+2. 해결해야 하는 문제 prev/next가 뜻과 반대로 작용함
+다른 사람의 repository를 본 결과 theme의 자체적 문제일 가능성이 높아보임
+blog 제외한 menu 에서 prev/next 버튼이 없음
+menu 시스템을 다시 한번 손봐야 할것 같음
+이미지 첨부 안됨
+가장 큰 문제인데 이미지 첨부가 안됨</description>
+    </item>
     <item>
       <title>3. Papermod 설정</title>
       <link>https://246p.github.io/blog/hugo_3/</link>
