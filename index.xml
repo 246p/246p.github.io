@@ -11,8 +11,22 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jan 2024 18:12:26 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jan 2024 01:22:47 +0900</lastBuildDate>
     <atom:link href="https://246p.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hack</title>
+      <link>https://246p.github.io/post/hacking/hack/</link>
+      <pubDate>Sun, 07 Jan 2024 01:22:47 +0900</pubDate>
+      <guid>https://246p.github.io/post/hacking/hack/</guid>
+      <description>부제목</description>
+    </item>
+    <item>
+      <title>Aa</title>
+      <link>https://246p.github.io/post/study/aa/</link>
+      <pubDate>Sun, 07 Jan 2024 01:17:11 +0900</pubDate>
+      <guid>https://246p.github.io/post/study/aa/</guid>
+      <description>부제목</description>
+    </item>
     <item>
       <title>Install_hugo</title>
       <link>https://246p.github.io/post/install_hugo/</link>
