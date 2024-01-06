@@ -6,8 +6,8 @@
     <description>Recent content in Papermod on Junlog</description>
     <image>
       <title>Junlog</title>
-      <url>https://246p.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://246p.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://private-user-images.githubusercontent.com/63668352/294718556-2ee2753e-14fa-4a53-93f7-f176c5af559e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ1NzY1NjIsIm5iZiI6MTcwNDU3NjI2MiwicGF0aCI6Ii82MzY2ODM1Mi8yOTQ3MTg1NTYtMmVlMjc1M2UtMTRmYS00YTUzLTkzZjctZjE3NmM1YWY1NTllLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTA2VDIxMjQyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU5Mzc5NzY3ZGVjMzdmMmNlNTFmOTg4NjVhNjQ3MDEyNmMwMmJmZDI1ODI0ZjY2NDdiYWJjY2I1OGQ0NjEwZWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.y3vD6kTtIkeKVYWAO3TkgWfJYlYj85fPJZO3CIJz_24</url>
+      <link>https://private-user-images.githubusercontent.com/63668352/294718556-2ee2753e-14fa-4a53-93f7-f176c5af559e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ1NzY1NjIsIm5iZiI6MTcwNDU3NjI2MiwicGF0aCI6Ii82MzY2ODM1Mi8yOTQ3MTg1NTYtMmVlMjc1M2UtMTRmYS00YTUzLTkzZjctZjE3NmM1YWY1NTllLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTA2VDIxMjQyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU5Mzc5NzY3ZGVjMzdmMmNlNTFmOTg4NjVhNjQ3MDEyNmMwMmJmZDI1ODI0ZjY2NDdiYWJjY2I1OGQ0NjEwZWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.y3vD6kTtIkeKVYWAO3TkgWfJYlYj85fPJZO3CIJz_24</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -27,7 +27,7 @@ truouble shooting 과정에서 Papermod 위키를 10번은 읽은것 같다.
 blog 제외한 menu 에서 prev/next 버튼이 없음
 menu 시스템을 다시 한번 손봐야 할것 같음
 이미지 첨부 안됨
-가장 큰 문제인데 이미지 첨부가 안됨</description>
+가장 큰 문제인데 상대 경로를 통한 이미지 첨부가 안됨</description>
     </item>
     <item>
       <title>3. Papermod 설정</title>
