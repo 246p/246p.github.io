@@ -14,17 +14,17 @@
     <lastBuildDate>Sun, 07 Jan 2024 05:08:36 +0900</lastBuildDate>
     <atom:link href="https://246p.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Papermod 설정하기</title>
-      <link>https://246p.github.io/blog/hugo_2/</link>
+      <title>3. Papermod 설정</title>
+      <link>https://246p.github.io/blog/hugo_3/</link>
       <pubDate>Sun, 07 Jan 2024 05:08:36 +0900</pubDate>
-      <guid>https://246p.github.io/blog/hugo_2/</guid>
-      <description></description>
+      <guid>https://246p.github.io/blog/hugo_3/</guid>
+      <description>게시물 작성 default.md </description>
     </item>
     <item>
-      <title>Hugo 시작하기</title>
-      <link>https://246p.github.io/blog/install_hugo/</link>
+      <title>1. Hugo 시작</title>
+      <link>https://246p.github.io/blog/hugo_1/</link>
       <pubDate>Sat, 06 Jan 2024 18:12:26 +0900</pubDate>
-      <guid>https://246p.github.io/blog/install_hugo/</guid>
+      <guid>https://246p.github.io/blog/hugo_1/</guid>
       <description>들어가며 먼저 github.io를 이용하여 블로그를 구축하기위해서 SSG(Static Site Generator)를 정해야 한다. 대표적으로 Jkelly(Ruby), Eleventy(Node.js), Hugo(Go) 중 Hugo를 선택하였다. 한국어 레퍼런스가 부족하다는 단점이 있지만 속도측면에서 가장 빠르기 때문이다.
 이 글은 Mac 사용자를 기준으로 작성되었다.
 hugo 설치하기 먼저 home brew를 이용하여 hugo를 설치해야 한다.
