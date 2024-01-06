@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on Junlog</title>
-    <link>https://246p.github.io/tags/hugo/</link>
-    <description>Recent content in Hugo on Junlog</description>
+    <title>blog on Junlog</title>
+    <link>https://246p.github.io/categories/blog/</link>
+    <description>Recent content in blog on Junlog</description>
     <image>
       <title>Junlog</title>
       <url>https://github.com/246p/blog/blob/main/Hugo/blog/Cover.png?raw=true</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 07 Jan 2024 05:52:58 +0900</lastBuildDate>
-    <atom:link href="https://246p.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://246p.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>4. 중간 점검</title>
       <link>https://246p.github.io/blog/hugo_4/</link>
@@ -58,6 +58,15 @@ menu 시스템을 다시 한번 손봐야 할것 같음
 1. hugo 설치하기 먼저 home brew를 이용하여 hugo를 설치해야 한다.
 1 brew install hugo 만약 home brew가 설치되어 있지 않다면 다음 명령을 사용하자
 1 /bin/bash -c &amp;#34;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)&amp;#34; 2. github repository 만들기 hugo 를 이용하여 사이트를 제작하기 위해서는 repository 2개가 필요하다.</description>
+    </item>
+    <item>
+      <title>블로그를 시작하면서</title>
+      <link>https://246p.github.io/blog/hugo_0/</link>
+      <pubDate>Sat, 06 Jan 2024 14:39:45 +0900</pubDate>
+      <guid>https://246p.github.io/blog/hugo_0/</guid>
+      <description>2학년 겨울 방학에 들어가기 앞서 나만의 공부 내용을 정리할만한 블로그를 만들어 보고싶다는 생각을 하게 되었다.
+개인 서버를 이용하여 웹사이트를 구축할까도 생각해보았지만 도메인 호스팅 비용, 서버유지관리 등 측면에서 github.io를 선택하게 되었다.
+앞으로 주 1회 이상 매주 공부한 내용을 포스팅할 예정이다.</description>
     </item>
   </channel>
 </rss>

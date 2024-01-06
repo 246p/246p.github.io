@@ -38,6 +38,17 @@ menu 시스템을 다시 한번 손봐야 할것 같음
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 baseURL: &amp;#34;https://246p.</description>
     </item>
     <item>
+      <title>2. MarkDown 문법</title>
+      <link>https://246p.github.io/blog/hugo_2/</link>
+      <pubDate>Sun, 07 Jan 2024 05:05:14 +0900</pubDate>
+      <guid>https://246p.github.io/blog/hugo_2/</guid>
+      <description>0. Markdown이란 github에 들어가본 사람이라면 한번쯤 .md 확장자 파일을 본 적 있을 것이다. markdown은 간단한 문법으로 쉽게 쓰고 읽을 수 있다. 다음과 같은 장단점이 존재한다.
+장점
+간결하다 텍스트 에디터로 쉽게 작성 가능하다. 다양한 프로그램과 플랫폼에서 활용할 수 있다. 단점
+표준이 없다. 모든 HTML을 표기할 수 없다. 1. 문법 Header 다음과 같이 제목을 표기할 수 있다.
+1 2 3 # Header 1 ## Header 2 ### Header 3 Header 1 Header 2 Header 3 BlockQuote 1 2 3 &amp;gt;first &amp;gt; &amp;gt; second &amp;gt; &amp;gt; &amp;gt; third first</description>
+    </item>
+    <item>
       <title>1. Hugo 시작</title>
       <link>https://246p.github.io/blog/hugo_1/</link>
       <pubDate>Sat, 06 Jan 2024 18:12:26 +0900</pubDate>
