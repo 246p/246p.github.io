@@ -15,27 +15,27 @@
 markdown은 간단한 문법으로 쉽게 쓰고 읽을 수 있다. 다음과 같은 장단점이 존재한다.</p><blockquote><p>장점</p></blockquote><ul><li>간결하다</li><li>텍스트 에디터로 쉽게 작성 가능하다.</li><li>다양한 프로그램과 플랫폼에서 활용할 수 있다.</li></ul><blockquote><p>단점</p></blockquote><ul><li>표준이 없다.</li><li>모든 HTML을 표기할 수 없다.</li></ul><h2 id=1-문법>1. 문법<a hidden class=anchor aria-hidden=true href=#1-문법>#</a></h2><ul><li>Header</li></ul><p>다음과 같이 제목을 표기할 수 있다.</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
 </span><span class=lnt>2
 </span><span class=lnt>3
-</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>    # Header 1
-</span></span><span class=line><span class=cl>    ## Header 2
-</span></span><span class=line><span class=cl>    ### Header 3
-</span></span></code></pre></td></tr></table></div></div><h1 id=header-1>Header 1<a hidden class=anchor aria-hidden=true href=#header-1>#</a></h1><h2 id=header-2>Header 2<a hidden class=anchor aria-hidden=true href=#header-2>#</a></h2><h3 id=header-3>Header 3<a hidden class=anchor aria-hidden=true href=#header-3>#</a></h3><ul><li>BlockQuote</li></ul><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-md data-lang=md><span class=line><span class=cl><span class=gh># Header 1
+</span></span></span><span class=line><span class=cl><span class=gh></span><span class=gu>## Header 2
+</span></span></span><span class=line><span class=cl><span class=gu>### Header 3
+</span></span></span></code></pre></td></tr></table></div></div><h1 id=header-1>Header 1<a hidden class=anchor aria-hidden=true href=#header-1>#</a></h1><h2 id=header-2>Header 2<a hidden class=anchor aria-hidden=true href=#header-2>#</a></h2><h3 id=header-3>Header 3<a hidden class=anchor aria-hidden=true href=#header-3>#</a></h3><ul><li>BlockQuote</li></ul><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
 </span><span class=lnt>2
 </span><span class=lnt>3
-</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>&gt;first
-</span></span><span class=line><span class=cl>&gt; &gt; second
-</span></span><span class=line><span class=cl>&gt; &gt; &gt; third
-</span></span></code></pre></td></tr></table></div></div><blockquote><p>first</p><blockquote><p>second</p><blockquote><p>third</p></blockquote></blockquote></blockquote><ul><li>List</li></ul><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-md data-lang=md><span class=line><span class=cl>&gt;first
+</span></span><span class=line><span class=cl><span class=k>&gt; </span><span class=ge>&gt; second
+</span></span></span><span class=line><span class=cl><span class=ge></span><span class=k>&gt; </span><span class=ge>&gt; &gt; third
+</span></span></span></code></pre></td></tr></table></div></div><blockquote><p>first</p><blockquote><p>second</p><blockquote><p>third</p></blockquote></blockquote></blockquote><ul><li>List</li></ul><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
 </span><span class=lnt>2
 </span><span class=lnt>3
-</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>1. first
-</span></span><span class=line><span class=cl>2. second
-</span></span><span class=line><span class=cl>3. third
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-md data-lang=md><span class=line><span class=cl><span class=k>1.</span> first
+</span></span><span class=line><span class=cl><span class=k>2.</span> second
+</span></span><span class=line><span class=cl><span class=k>3.</span> third
 </span></span></code></pre></td></tr></table></div></div><ol><li>first</li><li>second</li><li>third</li></ol><p>순서를 바꾸어도 순서&rsquo;만&rsquo; 정렬된다.</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
 </span><span class=lnt>2
 </span><span class=lnt>3
-</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>1. first
-</span></span><span class=line><span class=cl>3. third
-</span></span><span class=line><span class=cl>2. second
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-md data-lang=md><span class=line><span class=cl><span class=k>1.</span> first
+</span></span><span class=line><span class=cl><span class=k>3.</span> third
+</span></span><span class=line><span class=cl><span class=k>2.</span> second
 </span></span></code></pre></td></tr></table></div></div><ol><li>first</li><li>third</li><li>second</li></ol><ul><li>순서없는 list (*, +, -)</li></ul><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
 </span><span class=lnt>2
 </span><span class=lnt>3
@@ -45,19 +45,19 @@ markdown은 간단한 문법으로 쉽게 쓰고 읽을 수 있다. 다음과 �
 </span></span></code></pre></td></tr></table></div></div><ul><li>first<ul><li>second<ul><li>third</li></ul></li></ul></li></ul><ul><li>code</li></ul><p>다음과 같이 코드 들여쓰기를 할 수 있다.</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
 </span><span class=lnt>2
 </span><span class=lnt>3
-</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>    ```c
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-md data-lang=md><span class=line><span class=cl>    ```c
 </span></span><span class=line><span class=cl>    printf(&#34;hello world\n&#34;);
 </span></span><span class=line><span class=cl>    ```
 </span></span></code></pre></td></tr></table></div></div><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
 </span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-c data-lang=c><span class=line><span class=cl>    <span class=nf>printf</span><span class=p>(</span><span class=s>&#34;hello world</span><span class=se>\n</span><span class=s>&#34;</span><span class=p>);</span>
 </span></span></code></pre></td></tr></table></div></div><ul><li>vertical bar</li></ul><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
 </span><span class=lnt>2
-</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>---
-</span></span><span class=line><span class=cl>***
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-md data-lang=md><span class=line><span class=cl>---
+</span></span><span class=line><span class=cl><span class=ge>**</span>*
 </span></span></code></pre></td></tr></table></div></div><hr><hr><ul><li>link</li></ul><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
 </span><span class=lnt>2
-</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>    [Title](link)
-</span></span><span class=line><span class=cl>    [Google](https://google.com)
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-md data-lang=md><span class=line><span class=cl>    [<span class=nt>Title</span>](<span class=na>link</span>)
+</span></span><span class=line><span class=cl>    [<span class=nt>Google</span>](<span class=na>https://google.com</span>)
 </span></span></code></pre></td></tr></table></div></div><p><a href=https://google.com>Google</a></p><h2 id=2-사용되는곳>2. 사용되는곳<a hidden class=anchor aria-hidden=true href=#2-사용되는곳>#</a></h2><p>가볍고 많은곳에 사용된다는 점에 있어서 Github, Stack Overflow, Velog, Obsidian, Discord 등 개발자가 많이 사용하는 플렛폼에서 많이 사용된다.</p></div><footer class=post-footer><ul class=post-tags><li><a href=https://246p.github.io/tags/hugo/>Hugo</a></li><li><a href=https://246p.github.io/tags/papermod/>Papermod</a></li><li><a href=https://246p.github.io/tags/markdown/>Markdown</a></li></ul><nav class=paginav><a class=prev href=https://246p.github.io/blog/hugo_3/><span class=title>« Prev</span><br><span>3. Papermod 설정</span>
 </a><a class=next href=https://246p.github.io/blog/hugo_1/><span class=title>Next »</span><br><span>1. Hugo 시작</span></a></nav></footer></article></main><footer class=footer><span>&copy; 2024 <a href=https://246p.github.io/>Junlog</a></span>
 <span>Powered by
