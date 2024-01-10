@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CFG on Junlog</title>
+    <link>https://246p.github.io/tags/cfg/</link>
+    <description>Recent content in CFG on Junlog</description>
+    <image>
+      <title>Junlog</title>
+      <url>https://github.com/246p/blog/blob/main/Hugo/blog/Cover.png?raw=true</url>
+      <link>https://github.com/246p/blog/blob/main/Hugo/blog/Cover.png?raw=true</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Jan 2024 17:47:45 +0900</lastBuildDate>
+    <atom:link href="https://246p.github.io/tags/cfg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3. Syntax analysis(1)</title>
+      <link>https://246p.github.io/blog/3_1/</link>
+      <pubDate>Wed, 10 Jan 2024 17:47:45 +0900</pubDate>
+      <guid>https://246p.github.io/blog/3_1/</guid>
+      <description>Context-free grammar CFG : defined with a set of production rules ex) E -&amp;gt; E + E E -&amp;gt; E * E E -&amp;gt; id E -&amp;gt; num
+Derivation ex) E ⇒ E + E ⇒ id + E ⇒ id + num we will use ⇒* to denote arbitrary number of rewriting steps
+Terminal Symbol vs Non-Terminal Symbol Terminal Symbol : can&amp;rsquo;t be rewritten anymore (+, *, id, num) Non-Terminal Symbol : can be rewritten (E)</description>
+    </item>
+  </channel>
+</rss>

@@ -19,8 +19,8 @@
       <pubDate>Wed, 10 Jan 2024 17:47:45 +0900</pubDate>
       <guid>https://246p.github.io/blog/3_1/</guid>
       <description>Context-free grammar CFG : defined with a set of production rules ex) E -&amp;gt; E + E E -&amp;gt; E * E E -&amp;gt; id E -&amp;gt; num
-CFG : Derivation ex) E ⇒ E + E ⇒ id + E ⇒ id + num we will use ⇒* to denote arbitrary number of rewriting steps
-CFG : Terminal Symbol : can&amp;rsquo;t be rewritten anymore (+, *, id, num) CFG : Non-Terminal Symbol : can be rewritten (E)</description>
+Derivation ex) E ⇒ E + E ⇒ id + E ⇒ id + num we will use ⇒* to denote arbitrary number of rewriting steps
+Terminal Symbol vs Non-Terminal Symbol Terminal Symbol : can&amp;rsquo;t be rewritten anymore (+, *, id, num) Non-Terminal Symbol : can be rewritten (E)</description>
     </item>
     <item>
       <title>2. Lexical Analysis</title>
