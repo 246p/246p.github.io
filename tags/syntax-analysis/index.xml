@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Top-Down on Junlog</title>
-    <link>https://246p.github.io/tags/top-down/</link>
-    <description>Recent content in Top-Down on Junlog</description>
+    <title>Syntax analysis on Junlog</title>
+    <link>https://246p.github.io/tags/syntax-analysis/</link>
+    <description>Recent content in Syntax analysis on Junlog</description>
     <image>
       <title>Junlog</title>
       <url>https://github.com/246p/blog/blob/main/Hugo/blog/Cover.png?raw=true</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 10 Jan 2024 17:47:45 +0900</lastBuildDate>
-    <atom:link href="https://246p.github.io/tags/top-down/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://246p.github.io/tags/syntax-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3. Syntax analysis (1)</title>
       <link>https://246p.github.io/blog/3_1/</link>
