@@ -11,13 +11,20 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jan 2024 23:04:47 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 23:10:32 +0900</lastBuildDate>
     <atom:link href="https://246p.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024</title>
       <link>https://246p.github.io/categories/2024/</link>
-      <pubDate>Wed, 10 Jan 2024 23:04:47 +0900</pubDate>
+      <pubDate>Wed, 10 Jan 2024 23:10:32 +0900</pubDate>
       <guid>https://246p.github.io/categories/2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>해킹</title>
+      <link>https://246p.github.io/categories/%ED%95%B4%ED%82%B9/</link>
+      <pubDate>Wed, 10 Jan 2024 23:10:32 +0900</pubDate>
+      <guid>https://246p.github.io/categories/%ED%95%B4%ED%82%B9/</guid>
       <description></description>
     </item>
     <item>

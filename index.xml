@@ -11,14 +11,22 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jan 2024 23:04:47 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 23:10:32 +0900</lastBuildDate>
     <atom:link href="https://246p.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>1</title>
+      <title>2. Introduction to Software Vulnerability</title>
+      <link>https://246p.github.io/blog/2/</link>
+      <pubDate>Wed, 10 Jan 2024 23:10:32 +0900</pubDate>
+      <guid>https://246p.github.io/blog/2/</guid>
+      <description>Bug and Vulnerability Bug : error in program that make it malfunction Vulunerability : bug that causes security issues </description>
+    </item>
+    <item>
+      <title>1. Overview</title>
       <link>https://246p.github.io/blog/1/</link>
       <pubDate>Wed, 10 Jan 2024 23:04:47 +0900</pubDate>
       <guid>https://246p.github.io/blog/1/</guid>
-      <description></description>
+      <description>CIA Properties Key properties that we want to achieve for security
+Confidentiality: secrets must be kept secret Integrity: data should not be tampered Availability: the system must be usable Common Types of Attacks Denai of service Shutting down system or service runnig on it ex) Blue Screen, 503 Error Code execution Running arbitary, unintended code Privilege escalation Gaining unintended privileges Information Leakage Accessing sensetive data ex) Hartblled bug </description>
     </item>
     <item>
       <title>3. Syntax analysis (2)</title>
