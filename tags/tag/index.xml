@@ -11,23 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jan 2024 01:50:20 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 17:47:45 +0900</lastBuildDate>
     <atom:link href="https://246p.github.io/tags/tag/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test2</title>
-      <link>https://246p.github.io/hacking/test2/</link>
-      <pubDate>Sun, 07 Jan 2024 01:50:20 +0900</pubDate>
-      <guid>https://246p.github.io/hacking/test2/</guid>
-      <description>부제목</description>
-    </item>
-    <item>
-      <title>Test</title>
-      <link>https://246p.github.io/hacking/test/</link>
-      <pubDate>Sun, 07 Jan 2024 01:31:25 +0900</pubDate>
-      <guid>https://246p.github.io/hacking/test/</guid>
-      <description>issue 1 권한없으면 안됨
-issue 2 느림
-repo 빠름, 권한필요없음 번거로움</description>
+      <title>3 1</title>
+      <link>https://246p.github.io/blog/3-1/</link>
+      <pubDate>Wed, 10 Jan 2024 17:47:45 +0900</pubDate>
+      <guid>https://246p.github.io/blog/3-1/</guid>
+      <description>Context-free grammar CFG : defined with a set of production rules ex) E -&amp;gt; E + E E -&amp;gt; E * E E -&amp;gt; id E -&amp;gt; num
+CFG : Derivation ex) E ⇒ E + E ⇒ id + E ⇒ id + num we will use ⇒* to denote arbitrary number of rewriting steps
+CFG : Terminal Symbol : can&amp;rsquo;t be rewritten anymore (+, *, id, num) CFG : Non-Terminal Symbol : can be rewritten (E)</description>
     </item>
   </channel>
 </rss>

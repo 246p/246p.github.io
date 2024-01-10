@@ -11,8 +11,29 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jan 2024 05:52:58 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 17:47:45 +0900</lastBuildDate>
     <atom:link href="https://246p.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tag</title>
+      <link>https://246p.github.io/tags/tag/</link>
+      <pubDate>Wed, 10 Jan 2024 17:47:45 +0900</pubDate>
+      <guid>https://246p.github.io/tags/tag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lexical Analysis</title>
+      <link>https://246p.github.io/tags/lexical-analysis/</link>
+      <pubDate>Wed, 10 Jan 2024 17:46:04 +0900</pubDate>
+      <guid>https://246p.github.io/tags/lexical-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>컴파일러</title>
+      <link>https://246p.github.io/tags/%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC/</link>
+      <pubDate>Wed, 10 Jan 2024 17:46:04 +0900</pubDate>
+      <guid>https://246p.github.io/tags/%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Hugo</title>
       <link>https://246p.github.io/tags/hugo/</link>

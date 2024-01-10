@@ -11,8 +11,40 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jan 2024 05:52:58 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 17:47:45 +0900</lastBuildDate>
     <atom:link href="https://246p.github.io/categories/2024/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3 1</title>
+      <link>https://246p.github.io/blog/3-1/</link>
+      <pubDate>Wed, 10 Jan 2024 17:47:45 +0900</pubDate>
+      <guid>https://246p.github.io/blog/3-1/</guid>
+      <description>Context-free grammar CFG : defined with a set of production rules ex) E -&amp;gt; E + E E -&amp;gt; E * E E -&amp;gt; id E -&amp;gt; num
+CFG : Derivation ex) E ⇒ E + E ⇒ id + E ⇒ id + num we will use ⇒* to denote arbitrary number of rewriting steps
+CFG : Terminal Symbol : can&amp;rsquo;t be rewritten anymore (+, *, id, num) CFG : Non-Terminal Symbol : can be rewritten (E)</description>
+    </item>
+    <item>
+      <title>2. Lexical Analysis</title>
+      <link>https://246p.github.io/blog/2/</link>
+      <pubDate>Wed, 10 Jan 2024 17:46:04 +0900</pubDate>
+      <guid>https://246p.github.io/blog/2/</guid>
+      <description>Token 문자열을 해당 문자열의 의미하는 연산, 값에 따라 token으로 분류할 수 있다.
+Token Example Keyword int, void, if Identifier(ID) a, var_1 Integer literal 10, 20 Operators +, =, * Whitespace “ “, \t, \n Regula Expression Token을 나누는 방법은 Automata를 이용한다. 이에 앞서 Regula Expression (RegEx) 에 대해서 알아볼 필요가 있다.
+RegEx는 Base case와 Inductive case로 구성된다.
+Regula language 𝚺 를 이용하여 symbol들의 집합을 표기한다. ex) binary numbers : 𝚺 = {&amp;lsquo;0&amp;rsquo;,&amp;lsquo;1&amp;rsquo;}, lowercase letters : 𝚺 = {&amp;lsquo;a&amp;rsquo;,&amp;lsquo;b&amp;rsquo;,&amp;hellip;&amp;lsquo;z&amp;rsquo;}</description>
+    </item>
+    <item>
+      <title>1. overview</title>
+      <link>https://246p.github.io/blog/1/</link>
+      <pubDate>Wed, 10 Jan 2024 17:42:23 +0900</pubDate>
+      <guid>https://246p.github.io/blog/1/</guid>
+      <description>컴파일러란? 컴파일러는 source language를 target language로 변환한다.
+일반적으로 source = high-level, target = low-level 이다. ex) C -&amp;gt; machine code
+Compiler vs Interpreter Compiler는 input program을 executable form으로 변환한다.
+반면 Interpreter는 input program을 실행한다.
+Compier 컴파일러는 세가지 과정으로 구분할 수 있다.Front-end -&amp;gt; Middle-end -&amp;gt; Back-end
+Front-end Lexer (lexical analysis) 문자열을 token단위로 나눈다. x=y+10; -&amp;gt; VAR &amp;ldquo;X&amp;rdquo;, ASSIGN, VAR &amp;ldquo;y&amp;rdquo;, PLUS, CONST 10
+Parser (syntax analysis) abstract syntax tree (AST)를 생성한다. Type Checker (semantic analysis) AST를 분석하여 type이 알맞은지 확인한다.</description>
+    </item>
     <item>
       <title>4. 중간 점검</title>
       <link>https://246p.github.io/blog/hugo_4/</link>
