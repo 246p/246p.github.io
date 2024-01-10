@@ -11,8 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jan 2024 17:46:04 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 17:47:45 +0900</lastBuildDate>
     <atom:link href="https://246p.github.io/categories/%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3. Syntax analysis(1)</title>
+      <link>https://246p.github.io/blog/3_1/</link>
+      <pubDate>Wed, 10 Jan 2024 17:47:45 +0900</pubDate>
+      <guid>https://246p.github.io/blog/3_1/</guid>
+      <description>Context-free grammar CFG : defined with a set of production rules ex) E -&amp;gt; E + E E -&amp;gt; E * E E -&amp;gt; id E -&amp;gt; num
+CFG : Derivation ex) E ⇒ E + E ⇒ id + E ⇒ id + num we will use ⇒* to denote arbitrary number of rewriting steps
+CFG : Terminal Symbol : can&amp;rsquo;t be rewritten anymore (+, *, id, num) CFG : Non-Terminal Symbol : can be rewritten (E)</description>
+    </item>
     <item>
       <title>2. Lexical Analysis</title>
       <link>https://246p.github.io/blog/2/</link>

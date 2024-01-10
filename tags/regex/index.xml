@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RegEx on Junlog</title>
+    <link>https://246p.github.io/tags/regex/</link>
+    <description>Recent content in RegEx on Junlog</description>
+    <image>
+      <title>Junlog</title>
+      <url>https://github.com/246p/blog/blob/main/Hugo/blog/Cover.png?raw=true</url>
+      <link>https://github.com/246p/blog/blob/main/Hugo/blog/Cover.png?raw=true</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Jan 2024 17:46:04 +0900</lastBuildDate>
+    <atom:link href="https://246p.github.io/tags/regex/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2. Lexical Analysis</title>
+      <link>https://246p.github.io/blog/2/</link>
+      <pubDate>Wed, 10 Jan 2024 17:46:04 +0900</pubDate>
+      <guid>https://246p.github.io/blog/2/</guid>
+      <description>Token 문자열을 해당 문자열의 의미하는 연산, 값에 따라 token으로 분류할 수 있다.
+Token Example Keyword int, void, if Identifier a, var_1 Integer 10, 20 Operators +, =, * Whitespace “ “, \t, \n Regula Expression Token을 나누는 방법은 Automata를 이용한다. 이에 앞서 Regula Expression (RegEx) 에 대해서 알아볼 필요가 있다.
+RegEx는 Base case와 Inductive case로 구성된다.
+Regula language 𝚺 를 이용하여 symbol들의 집합을 표기한다. ex) binary numbers : 𝚺 = {&amp;lsquo;0&amp;rsquo;,&amp;lsquo;1&amp;rsquo;}, lowercase letters : 𝚺 = {&amp;lsquo;a&amp;rsquo;,&amp;lsquo;b&amp;rsquo;,&amp;hellip;&amp;lsquo;z&amp;rsquo;}</description>
+    </item>
+  </channel>
+</rss>
