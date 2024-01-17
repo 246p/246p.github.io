@@ -11,14 +11,14 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jan 2024 12:42:23 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 12:57:33 +0900</lastBuildDate>
     <atom:link href="https://246p.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>1. F#</title>
+      <title>1</title>
       <link>https://246p.github.io/blog/1/</link>
-      <pubDate>Wed, 17 Jan 2024 12:42:23 +0900</pubDate>
+      <pubDate>Wed, 17 Jan 2024 12:57:33 +0900</pubDate>
       <guid>https://246p.github.io/blog/1/</guid>
-      <description>F#이란? </description>
+      <description> </description>
     </item>
     <item>
       <title>2. Introduction to Software Vulnerability</title>
