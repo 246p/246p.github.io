@@ -15,33 +15,33 @@
     <atom:link href="https://246p.github.io/categories/2024/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1</title>
-      <link>https://246p.github.io/blog/1/</link>
+      <link>https://246p.github.io/blog/fsharp_1/</link>
       <pubDate>Wed, 17 Jan 2024 12:57:33 +0900</pubDate>
-      <guid>https://246p.github.io/blog/1/</guid>
+      <guid>https://246p.github.io/blog/fsharp_1/</guid>
       <description>F#이란? </description>
     </item>
     <item>
       <title>2. Introduction to Software Vulnerability</title>
-      <link>https://246p.github.io/blog/2/</link>
+      <link>https://246p.github.io/blog/hacking_2/</link>
       <pubDate>Wed, 10 Jan 2024 23:10:32 +0900</pubDate>
-      <guid>https://246p.github.io/blog/2/</guid>
+      <guid>https://246p.github.io/blog/hacking_2/</guid>
       <description>Bug and Vulnerability Bug : error in program that make it malfunction Vulunerability : bug that causes security issues Buffer Overflow &amp;amp; Memory Corruption C has no automatic check on array boundary
 Allow writing past the end of an array Buffer OverFlow corrupt other variables and data in memory Setuid Bit (SUID) Linux 환경에서 passwd 명령을 입력하면 /etc/passwd 에 저장된 정보를 변경한다.
 /만약 /etc/passwd 명령어가</description>
     </item>
     <item>
       <title>1. Overview</title>
-      <link>https://246p.github.io/blog/1/</link>
+      <link>https://246p.github.io/blog/hacking_1/</link>
       <pubDate>Wed, 10 Jan 2024 23:04:47 +0900</pubDate>
-      <guid>https://246p.github.io/blog/1/</guid>
+      <guid>https://246p.github.io/blog/hacking_1/</guid>
       <description>CIA Properties Key properties that we want to achieve for security
 Confidentiality: secrets must be kept secret Integrity: data should not be tampered Availability: the system must be usable Common Types of Attacks Denai of service Shutting down system or service runnig on it ex) Blue Screen, 503 Error Code execution Running arbitary, unintended code Privilege escalation Gaining unintended privileges Information Leakage Accessing sensetive data ex) Hartblled bug </description>
     </item>
     <item>
       <title>3. Syntax analysis (2)</title>
-      <link>https://246p.github.io/blog/3_2/</link>
+      <link>https://246p.github.io/blog/compiler_3_2/</link>
       <pubDate>Wed, 10 Jan 2024 21:32:30 +0900</pubDate>
-      <guid>https://246p.github.io/blog/3_2/</guid>
+      <guid>https://246p.github.io/blog/compiler_3_2/</guid>
       <description>Bottom-up bottom-up parsing을 수행할때는 소괄호를 지원하는 조금 다른 CFG를 사용한다
 피 연산자로 id만 지원함 left-recursion이 있어도 됨 Top-down parsing은 다음과 같은 방식으로 시작된다.
 tree를 만드는 동안 token을 하나씩 읽는다. 끝이 난다면 root node는 start symbol이 된다. 다음은 id1 * id2 에 대한 예시이다. 즉 reversed order Rightmost Derivation이라고 볼 수 있다.
@@ -49,18 +49,18 @@ LR(1) Parsing 매 단계마다 다음 token을 받아올지 production rule을 �
     </item>
     <item>
       <title>3. Syntax analysis (1)</title>
-      <link>https://246p.github.io/blog/3_1/</link>
+      <link>https://246p.github.io/blog/compiler_3_1/</link>
       <pubDate>Wed, 10 Jan 2024 17:47:45 +0900</pubDate>
-      <guid>https://246p.github.io/blog/3_1/</guid>
+      <guid>https://246p.github.io/blog/compiler_3_1/</guid>
       <description>Context-free grammar CFG : defined with a set of production rules ex) E -&amp;gt; E + E E -&amp;gt; E * E E -&amp;gt; id E -&amp;gt; num
 Derivation ex) E ⇒ E + E ⇒ id + E ⇒ id + num we will use ⇒* to denote arbitrary number of rewriting steps
 Terminal Symbol vs Non-Terminal Symbol Terminal Symbol : can&amp;rsquo;t be rewritten anymore (+, *, id, num) Non-Terminal Symbol : can be rewritten (E)</description>
     </item>
     <item>
       <title>2. Lexical Analysis</title>
-      <link>https://246p.github.io/blog/2/</link>
+      <link>https://246p.github.io/blog/compiler_2/</link>
       <pubDate>Wed, 10 Jan 2024 17:46:04 +0900</pubDate>
-      <guid>https://246p.github.io/blog/2/</guid>
+      <guid>https://246p.github.io/blog/compiler_2/</guid>
       <description>Token 문자열을 해당 문자열의 의미하는 연산, 값에 따라 token으로 분류할 수 있다.
 Token Example Keyword int, void, if Identifier a, var_1 Integer 10, 20 Operators +, =, * Whitespace “ “, \t, \n Regula Expression Token을 나누는 방법은 Automata를 이용한다. 이에 앞서 Regula Expression (RegEx) 에 대해서 알아볼 필요가 있다.
 RegEx는 Base case와 Inductive case로 구성된다.
@@ -68,9 +68,9 @@ Regula language 𝚺 를 이용하여 symbol들의 집합을 표기한다. ex) b
     </item>
     <item>
       <title>1. overview</title>
-      <link>https://246p.github.io/blog/1/</link>
+      <link>https://246p.github.io/blog/compiler_1/</link>
       <pubDate>Wed, 10 Jan 2024 17:42:23 +0900</pubDate>
-      <guid>https://246p.github.io/blog/1/</guid>
+      <guid>https://246p.github.io/blog/compiler_1/</guid>
       <description>컴파일러란? 컴파일러는 source language를 target language로 변환한다.
 일반적으로 source = high-level, target = low-level 이다. ex) C -&amp;gt; machine code
 Compiler vs Interpreter Compiler는 input program을 executable form으로 변환한다.

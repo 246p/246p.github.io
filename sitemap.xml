@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://246p.github.io/blog/1/</loc>
+    <loc>https://246p.github.io/blog/fsharp_1/</loc>
     <lastmod>2024-01-17T12:57:33+09:00</lastmod>
   </url><url>
     <loc>https://246p.github.io/categories/2024/</loc>
@@ -29,7 +29,7 @@
     <loc>https://246p.github.io/categories/%ED%95%99%EB%B6%80%EC%97%B0%EA%B5%AC%EC%83%9D/</loc>
     <lastmod>2024-01-17T12:57:33+09:00</lastmod>
   </url><url>
-    <loc>https://246p.github.io/blog/2/</loc>
+    <loc>https://246p.github.io/blog/hacking_2/</loc>
     <lastmod>2024-01-10T23:10:32+09:00</lastmod>
   </url><url>
     <loc>https://246p.github.io/tags/%ED%95%B4%ED%82%B9/</loc>
@@ -38,10 +38,10 @@
     <loc>https://246p.github.io/categories/%ED%95%B4%ED%82%B9/</loc>
     <lastmod>2024-01-10T23:10:32+09:00</lastmod>
   </url><url>
-    <loc>https://246p.github.io/blog/1/</loc>
+    <loc>https://246p.github.io/blog/hacking_1/</loc>
     <lastmod>2024-01-10T23:04:47+09:00</lastmod>
   </url><url>
-    <loc>https://246p.github.io/blog/3_2/</loc>
+    <loc>https://246p.github.io/blog/compiler_3_2/</loc>
     <lastmod>2024-01-10T21:32:30+09:00</lastmod>
   </url><url>
     <loc>https://246p.github.io/tags/bottom-up/</loc>
@@ -65,13 +65,13 @@
     <loc>https://246p.github.io/categories/%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC/</loc>
     <lastmod>2024-01-10T21:32:30+09:00</lastmod>
   </url><url>
-    <loc>https://246p.github.io/blog/3_1/</loc>
+    <loc>https://246p.github.io/blog/compiler_3_1/</loc>
     <lastmod>2024-01-10T17:47:45+09:00</lastmod>
   </url><url>
     <loc>https://246p.github.io/tags/top-down/</loc>
     <lastmod>2024-01-10T17:47:45+09:00</lastmod>
   </url><url>
-    <loc>https://246p.github.io/blog/2/</loc>
+    <loc>https://246p.github.io/blog/compiler_2/</loc>
     <lastmod>2024-01-10T17:46:04+09:00</lastmod>
   </url><url>
     <loc>https://246p.github.io/tags/dfa/</loc>
@@ -89,7 +89,7 @@
     <loc>https://246p.github.io/tags/regex/</loc>
     <lastmod>2024-01-10T17:46:04+09:00</lastmod>
   </url><url>
-    <loc>https://246p.github.io/blog/1/</loc>
+    <loc>https://246p.github.io/blog/compiler_1/</loc>
     <lastmod>2024-01-10T17:42:23+09:00</lastmod>
   </url><url>
     <loc>https://246p.github.io/blog/hugo_4/</loc>
