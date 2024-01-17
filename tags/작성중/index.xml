@@ -11,8 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jan 2024 21:32:30 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 23:10:32 +0900</lastBuildDate>
     <atom:link href="https://246p.github.io/tags/%EC%9E%91%EC%84%B1%EC%A4%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2. Introduction to Software Vulnerability</title>
+      <link>https://246p.github.io/blog/hacking_2/</link>
+      <pubDate>Wed, 10 Jan 2024 23:10:32 +0900</pubDate>
+      <guid>https://246p.github.io/blog/hacking_2/</guid>
+      <description>Bug and Vulnerability Bug : error in program that make it malfunction Vulunerability : bug that causes security issues Buffer Overflow &amp;amp; Memory Corruption C has no automatic check on array boundary
+Allow writing past the end of an array Buffer OverFlow corrupt other variables and data in memory Setuid Bit (SUID) Linux 환경에서 passwd 명령을 입력하면 /etc/passwd 에 저장된 정보를 변경한다.
+/만약 /etc/passwd 명령어가</description>
+    </item>
     <item>
       <title>3. Syntax analysis (2)</title>
       <link>https://246p.github.io/blog/compiler_3_2/</link>
