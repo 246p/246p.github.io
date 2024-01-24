@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>자유변수 on Junlog</title>
+    <link>https://246p.github.io/tags/%EC%9E%90%EC%9C%A0%EB%B3%80%EC%88%98/</link>
+    <description>Recent content in 자유변수 on Junlog</description>
+    <image>
+      <title>Junlog</title>
+      <url>https://github.com/246p/blog/blob/main/Hugo/blog/Cover.png?raw=true</url>
+      <link>https://github.com/246p/blog/blob/main/Hugo/blog/Cover.png?raw=true</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Jan 2024 13:38:09 +0900</lastBuildDate>
+    <atom:link href="https://246p.github.io/tags/%EC%9E%90%EC%9C%A0%EB%B3%80%EC%88%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4. 함수 정의와 호출</title>
+      <link>https://246p.github.io/blog/pl_4/</link>
+      <pubDate>Wed, 24 Jan 2024 13:38:09 +0900</pubDate>
+      <guid>https://246p.github.io/blog/pl_4/</guid>
+      <description>4. 함수 정의와 호출 앞에서 선언한 언어를 확장하여 함수를 정의한다.
+4.1 문법구조 프로그램에서 함수를 사용하려면 함수 생성(선언)과 호출을 지원해야한다.
+E -&amp;gt; n | E1 + E2 | E1 - E2 | E1 * E2 | E1 / E2 | x | let x = E1 in E2 | if E1 then E2 else E3 | iszero E | fun x E 함수 생성식 | E1 E2 함수 호출식 fun x E x를 인자로 받아서 E의 계산 결과를 반환하는 함수를 정의하는 구문이다.</description>
+    </item>
+  </channel>
+</rss>

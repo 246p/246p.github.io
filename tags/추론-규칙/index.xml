@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>추론 규칙 on Junlog</title>
+    <link>https://246p.github.io/tags/%EC%B6%94%EB%A1%A0-%EA%B7%9C%EC%B9%99/</link>
+    <description>Recent content in 추론 규칙 on Junlog</description>
+    <image>
+      <title>Junlog</title>
+      <url>https://github.com/246p/blog/blob/main/Hugo/blog/Cover.png?raw=true</url>
+      <link>https://github.com/246p/blog/blob/main/Hugo/blog/Cover.png?raw=true</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Jan 2024 13:37:54 +0900</lastBuildDate>
+    <atom:link href="https://246p.github.io/tags/%EC%B6%94%EB%A1%A0-%EA%B7%9C%EC%B9%99/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3. 변수와 환경</title>
+      <link>https://246p.github.io/blog/pl_3/</link>
+      <pubDate>Wed, 24 Jan 2024 13:37:54 +0900</pubDate>
+      <guid>https://246p.github.io/blog/pl_3/</guid>
+      <description>3. 변수와 환경 3.1 문법구조 우리가 1장에서 선언한 정수형 언어를 다음과 같이 확장한다.
+E -&amp;gt; n | E1 + E2 | E1 - E2 | E1 * E2 | E1 / E2 | x 변수 | let x = E1 in E2 let식 | if E1 then E2 else E3 조건식 | iszero E bool식 x 먼저 프로그램에서 식이 올 수 있는 위치에 변수 x를 사용할 수 있도록 하였다.
+let x = E1 in E2 변수 x를 선언하는 식이다.</description>
+    </item>
+  </channel>
+</rss>

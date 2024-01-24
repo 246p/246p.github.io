@@ -11,8 +11,38 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jan 2024 13:09:40 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 13:38:09 +0900</lastBuildDate>
     <atom:link href="https://246p.github.io/categories/2024/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4. 함수 정의와 호출</title>
+      <link>https://246p.github.io/blog/pl_4/</link>
+      <pubDate>Wed, 24 Jan 2024 13:38:09 +0900</pubDate>
+      <guid>https://246p.github.io/blog/pl_4/</guid>
+      <description>4. 함수 정의와 호출 앞에서 선언한 언어를 확장하여 함수를 정의한다.
+4.1 문법구조 프로그램에서 함수를 사용하려면 함수 생성(선언)과 호출을 지원해야한다.
+E -&amp;gt; n | E1 + E2 | E1 - E2 | E1 * E2 | E1 / E2 | x | let x = E1 in E2 | if E1 then E2 else E3 | iszero E | fun x E 함수 생성식 | E1 E2 함수 호출식 fun x E x를 인자로 받아서 E의 계산 결과를 반환하는 함수를 정의하는 구문이다.</description>
+    </item>
+    <item>
+      <title>3. 변수와 환경</title>
+      <link>https://246p.github.io/blog/pl_3/</link>
+      <pubDate>Wed, 24 Jan 2024 13:37:54 +0900</pubDate>
+      <guid>https://246p.github.io/blog/pl_3/</guid>
+      <description>3. 변수와 환경 3.1 문법구조 우리가 1장에서 선언한 정수형 언어를 다음과 같이 확장한다.
+E -&amp;gt; n | E1 + E2 | E1 - E2 | E1 * E2 | E1 / E2 | x 변수 | let x = E1 in E2 let식 | if E1 then E2 else E3 조건식 | iszero E bool식 x 먼저 프로그램에서 식이 올 수 있는 위치에 변수 x를 사용할 수 있도록 하였다.
+let x = E1 in E2 변수 x를 선언하는 식이다.</description>
+    </item>
+    <item>
+      <title>1. 귀납법</title>
+      <link>https://246p.github.io/blog/pl_1/</link>
+      <pubDate>Wed, 24 Jan 2024 13:37:50 +0900</pubDate>
+      <guid>https://246p.github.io/blog/pl_1/</guid>
+      <description>1.귀납법 1.1 집합의 귀납적 정의 귀납법을 이용하여 집합을 정의할 수 있다.
+S를 다음을 만족하는 가장 &amp;lsquo;작은&amp;rsquo; 자연수 집합으로 정의해보자
+0 ∈ S n ∈ S ⇒ n + 3 ∈ S {0,1,2,3,4,&amp;hellip;} 도 만족하지만 {0,3,6,9,&amp;hellip;}가 가장 작은 집합이다.
+추론 규칙 추론 규칙을 이용한다면 다음과 같이 정의할 수 있다.
+n ∈ S ------- ---------- 0 ∈ S (n + 3) ∈ S 추론규칙을 CFG를 이용하여 표현하기도 한다.
+n → 0 | n + 3 1.</description>
+    </item>
     <item>
       <title>Fsharp_2</title>
       <link>https://246p.github.io/blog/fsharp_2/</link>
