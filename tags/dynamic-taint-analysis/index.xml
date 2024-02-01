@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dynamic taint analysis on Junlog</title>
+    <link>https://246p.github.io/tags/dynamic-taint-analysis/</link>
+    <description>Recent content in dynamic taint analysis on Junlog</description>
+    <image>
+      <title>Junlog</title>
+      <url>https://github.com/246p/blog/blob/main/Hugo/blog/Cover.png?raw=true</url>
+      <link>https://github.com/246p/blog/blob/main/Hugo/blog/Cover.png?raw=true</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 02 Feb 2024 01:26:10 +0900</lastBuildDate>
+    <atom:link href="https://246p.github.io/tags/dynamic-taint-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1. All You Ever Wanted to Know About Dynamic Taint Analysis and Forward Symbolic Execution</title>
+      <link>https://246p.github.io/blog/paper_1/</link>
+      <pubDate>Fri, 02 Feb 2024 01:26:10 +0900</pubDate>
+      <guid>https://246p.github.io/blog/paper_1/</guid>
+      <description>All You Ever Wanted to Know About Dynamic Taint Analysis and Forward Symbolic Execution
+0. Abstract Dynamic taint analysis &amp;amp; forward Symbolic execution을 이용하여 다음과 같은 일을 많이 수행함
+1. Input Filter Generation 2. Test case generation 3. Vulnerabiliry discovery 이와 관련하여 이 논문은 두가지 파트로 되어있음
+1. dynamic taint analysis와 forward symbolic execution을 수행할 수 있는 general language 제시 2. 이를 구현함에 있어서 important implementation choices, common pitfalls, considerations 1.</description>
+    </item>
+  </channel>
+</rss>
