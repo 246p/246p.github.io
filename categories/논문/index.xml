@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>논문 on Junlog</title>
+    <link>https://246p.github.io/categories/%EB%85%BC%EB%AC%B8/</link>
+    <description>Recent content in 논문 on Junlog</description>
+    <image>
+      <title>Junlog</title>
+      <url>https://github.com/246p/blog/blob/main/Hugo/blog/Cover.png?raw=true</url>
+      <link>https://github.com/246p/blog/blob/main/Hugo/blog/Cover.png?raw=true</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 02 Feb 2024 01:26:16 +0900</lastBuildDate>
+    <atom:link href="https://246p.github.io/categories/%EB%85%BC%EB%AC%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2. Automated Whitebox Fuzz Testing</title>
+      <link>https://246p.github.io/blog/paper_2/</link>
+      <pubDate>Fri, 02 Feb 2024 01:26:16 +0900</pubDate>
+      <guid>https://246p.github.io/blog/paper_2/</guid>
+      <description>Automated Whitebox Fuzz Testing
+0. Abstract fuzz testing은 소프트웨어 보안 취약점을 찾는 효과적인 기술이다. 전통적인 fuzzer들은 well-formed input에 random mutations을 적용하고 결과값을 테스트한다. 이 논문에서는 Symbolic execution과 Dynamic test generation을 적용하여 alternative whitebox fuzz testing을 구현하였다.
+이 논문에서는 well-formed input에 따라 실제로 실행되는 것을 기록하고, symbolicaly evalution하고, 프로그램이 입력을 어떻게 사용하는지 확인하여 입력에 대한 제약조건을 수집한다. 수집한 제약조건들을 하나씩 부정하고 constraint solver를 이용하여 solve한다. 이를 통해 프로그램에서 다른 경로를 실행하는 새로운 input을 생성한다.</description>
+    </item>
+  </channel>
+</rss>
