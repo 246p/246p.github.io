@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LAVA-M on Junlog</title>
+    <link>https://246p.github.io/tags/lava-m/</link>
+    <description>Recent content in LAVA-M on Junlog</description>
+    <image>
+      <title>Junlog</title>
+      <url>https://github.com/246p/blog/blob/main/Hugo/blog/Cover.png?raw=true</url>
+      <link>https://github.com/246p/blog/blob/main/Hugo/blog/Cover.png?raw=true</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 07 Feb 2024 10:13:45 +0900</lastBuildDate>
+    <atom:link href="https://246p.github.io/tags/lava-m/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3. Angora: Efficient Fuzzing by Principled Search</title>
+      <link>https://246p.github.io/blog/paper_3/</link>
+      <pubDate>Wed, 07 Feb 2024 10:13:45 +0900</pubDate>
+      <guid>https://246p.github.io/blog/paper_3/</guid>
+      <description>Angora: Efficient Fuzzing by Principled Search
+0. Abstract fuzzing은 소프트웨어 버그를 찾기 위해 널리 사용되고 있다. 그러나 최신의 fuzzer의 성능은 기대에 못미치기도 한다.
+symbolic execution 기반 : high quality input , 속도가 느림 random muatation 기반 : low quality input, 속도가 빠름 이 논문에서는 새로운 mutation-based fuzzer인 Angora를 제시한다.
+Angora의 목표는 symbolic execution 없이 path constraint를 해결함으로 branch coverage를 증가시키는 것이다. 다음과 같은 핵심 기술을 도입하였다.
+scalable byte-level taint tracking context-sensetive branch count search based on gradient descent input legnth exploration LAVA-M data set에서 거의 모든 injected bug를 찾았고 다른 모든 fuzzer보다 더 많은 bug를 찾았다.</description>
+    </item>
+  </channel>
+</rss>

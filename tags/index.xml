@@ -11,13 +11,41 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Feb 2024 01:26:16 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 10:13:45 +0900</lastBuildDate>
     <atom:link href="https://246p.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024</title>
       <link>https://246p.github.io/tags/2024/</link>
-      <pubDate>Fri, 02 Feb 2024 01:26:16 +0900</pubDate>
+      <pubDate>Wed, 07 Feb 2024 10:13:45 +0900</pubDate>
       <guid>https://246p.github.io/tags/2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>fuzzer</title>
+      <link>https://246p.github.io/tags/fuzzer/</link>
+      <pubDate>Wed, 07 Feb 2024 10:13:45 +0900</pubDate>
+      <guid>https://246p.github.io/tags/fuzzer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LAVA-M</title>
+      <link>https://246p.github.io/tags/lava-m/</link>
+      <pubDate>Wed, 07 Feb 2024 10:13:45 +0900</pubDate>
+      <guid>https://246p.github.io/tags/lava-m/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>논문</title>
+      <link>https://246p.github.io/tags/%EB%85%BC%EB%AC%B8/</link>
+      <pubDate>Wed, 07 Feb 2024 10:13:45 +0900</pubDate>
+      <guid>https://246p.github.io/tags/%EB%85%BC%EB%AC%B8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>학부연구생</title>
+      <link>https://246p.github.io/tags/%ED%95%99%EB%B6%80%EC%97%B0%EA%B5%AC%EC%83%9D/</link>
+      <pubDate>Wed, 07 Feb 2024 10:13:45 +0900</pubDate>
+      <guid>https://246p.github.io/tags/%ED%95%99%EB%B6%80%EC%97%B0%EA%B5%AC%EC%83%9D/</guid>
       <description></description>
     </item>
     <item>
@@ -32,20 +60,6 @@
       <link>https://246p.github.io/tags/whitebox-fuzzing/</link>
       <pubDate>Fri, 02 Feb 2024 01:26:16 +0900</pubDate>
       <guid>https://246p.github.io/tags/whitebox-fuzzing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>논문</title>
-      <link>https://246p.github.io/tags/%EB%85%BC%EB%AC%B8/</link>
-      <pubDate>Fri, 02 Feb 2024 01:26:16 +0900</pubDate>
-      <guid>https://246p.github.io/tags/%EB%85%BC%EB%AC%B8/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>학부연구생</title>
-      <link>https://246p.github.io/tags/%ED%95%99%EB%B6%80%EC%97%B0%EA%B5%AC%EC%83%9D/</link>
-      <pubDate>Fri, 02 Feb 2024 01:26:16 +0900</pubDate>
-      <guid>https://246p.github.io/tags/%ED%95%99%EB%B6%80%EC%97%B0%EA%B5%AC%EC%83%9D/</guid>
       <description></description>
     </item>
     <item>
