@@ -2,31 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://246p.github.io/tags/2024/</loc>
-    <lastmod>2024-02-07T10:13:45+09:00</lastmod>
-  </url><url>
     <loc>https://246p.github.io/categories/2024/</loc>
+    <lastmod>2024-02-14T12:48:49+09:00</lastmod>
+  </url><url>
+    <loc>https://246p.github.io/blog/paper_4/</loc>
+    <lastmod>2024-02-14T12:48:49+09:00</lastmod>
+  </url><url>
+    <loc>https://246p.github.io/categories/</loc>
+    <lastmod>2024-02-14T12:48:49+09:00</lastmod>
+  </url><url>
+    <loc>https://246p.github.io/</loc>
+    <lastmod>2024-02-14T12:48:49+09:00</lastmod>
+  </url><url>
+    <loc>https://246p.github.io/post/</loc>
+    <lastmod>2024-02-14T12:48:49+09:00</lastmod>
+  </url><url>
+    <loc>https://246p.github.io/tags/tag/</loc>
+    <lastmod>2024-02-14T12:48:49+09:00</lastmod>
+  </url><url>
+    <loc>https://246p.github.io/tags/</loc>
+    <lastmod>2024-02-14T12:48:49+09:00</lastmod>
+  </url><url>
+    <loc>https://246p.github.io/tags/2024/</loc>
     <lastmod>2024-02-07T10:13:45+09:00</lastmod>
   </url><url>
     <loc>https://246p.github.io/blog/paper_3/</loc>
     <lastmod>2024-02-07T10:13:45+09:00</lastmod>
   </url><url>
-    <loc>https://246p.github.io/categories/</loc>
-    <lastmod>2024-02-07T10:13:45+09:00</lastmod>
-  </url><url>
     <loc>https://246p.github.io/tags/fuzzer/</loc>
     <lastmod>2024-02-07T10:13:45+09:00</lastmod>
   </url><url>
-    <loc>https://246p.github.io/</loc>
-    <lastmod>2024-02-07T10:13:45+09:00</lastmod>
-  </url><url>
     <loc>https://246p.github.io/tags/lava-m/</loc>
-    <lastmod>2024-02-07T10:13:45+09:00</lastmod>
-  </url><url>
-    <loc>https://246p.github.io/post/</loc>
-    <lastmod>2024-02-07T10:13:45+09:00</lastmod>
-  </url><url>
-    <loc>https://246p.github.io/tags/</loc>
     <lastmod>2024-02-07T10:13:45+09:00</lastmod>
   </url><url>
     <loc>https://246p.github.io/tags/%EB%85%BC%EB%AC%B8/</loc>
@@ -87,9 +93,6 @@
     <lastmod>2024-01-24T13:37:50+09:00</lastmod>
   </url><url>
     <loc>https://246p.github.io/blog/fsharp_2/</loc>
-    <lastmod>2024-01-17T13:09:40+09:00</lastmod>
-  </url><url>
-    <loc>https://246p.github.io/tags/tag/</loc>
     <lastmod>2024-01-17T13:09:40+09:00</lastmod>
   </url><url>
     <loc>https://246p.github.io/blog/fsharp_1/</loc>
