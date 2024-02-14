@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://246p.github.io/tags/2024/</loc>
+    <lastmod>2024-02-14T12:48:49+09:00</lastmod>
+  </url><url>
     <loc>https://246p.github.io/categories/2024/</loc>
     <lastmod>2024-02-14T12:48:49+09:00</lastmod>
   </url><url>
@@ -11,40 +14,34 @@
     <loc>https://246p.github.io/categories/</loc>
     <lastmod>2024-02-14T12:48:49+09:00</lastmod>
   </url><url>
+    <loc>https://246p.github.io/tags/fuzzer/</loc>
+    <lastmod>2024-02-14T12:48:49+09:00</lastmod>
+  </url><url>
     <loc>https://246p.github.io/</loc>
+    <lastmod>2024-02-14T12:48:49+09:00</lastmod>
+  </url><url>
+    <loc>https://246p.github.io/tags/lava-m/</loc>
     <lastmod>2024-02-14T12:48:49+09:00</lastmod>
   </url><url>
     <loc>https://246p.github.io/post/</loc>
     <lastmod>2024-02-14T12:48:49+09:00</lastmod>
   </url><url>
-    <loc>https://246p.github.io/tags/tag/</loc>
-    <lastmod>2024-02-14T12:48:49+09:00</lastmod>
-  </url><url>
     <loc>https://246p.github.io/tags/</loc>
     <lastmod>2024-02-14T12:48:49+09:00</lastmod>
   </url><url>
-    <loc>https://246p.github.io/tags/2024/</loc>
-    <lastmod>2024-02-07T10:13:45+09:00</lastmod>
-  </url><url>
-    <loc>https://246p.github.io/blog/paper_3/</loc>
-    <lastmod>2024-02-07T10:13:45+09:00</lastmod>
-  </url><url>
-    <loc>https://246p.github.io/tags/fuzzer/</loc>
-    <lastmod>2024-02-07T10:13:45+09:00</lastmod>
-  </url><url>
-    <loc>https://246p.github.io/tags/lava-m/</loc>
-    <lastmod>2024-02-07T10:13:45+09:00</lastmod>
-  </url><url>
     <loc>https://246p.github.io/tags/%EB%85%BC%EB%AC%B8/</loc>
-    <lastmod>2024-02-07T10:13:45+09:00</lastmod>
+    <lastmod>2024-02-14T12:48:49+09:00</lastmod>
   </url><url>
     <loc>https://246p.github.io/categories/%EB%85%BC%EB%AC%B8/</loc>
-    <lastmod>2024-02-07T10:13:45+09:00</lastmod>
+    <lastmod>2024-02-14T12:48:49+09:00</lastmod>
   </url><url>
     <loc>https://246p.github.io/tags/%ED%95%99%EB%B6%80%EC%97%B0%EA%B5%AC%EC%83%9D/</loc>
-    <lastmod>2024-02-07T10:13:45+09:00</lastmod>
+    <lastmod>2024-02-14T12:48:49+09:00</lastmod>
   </url><url>
     <loc>https://246p.github.io/categories/%ED%95%99%EB%B6%80%EC%97%B0%EA%B5%AC%EC%83%9D/</loc>
+    <lastmod>2024-02-14T12:48:49+09:00</lastmod>
+  </url><url>
+    <loc>https://246p.github.io/blog/paper_3/</loc>
     <lastmod>2024-02-07T10:13:45+09:00</lastmod>
   </url><url>
     <loc>https://246p.github.io/blog/paper_2/</loc>
@@ -91,18 +88,6 @@
   </url><url>
     <loc>https://246p.github.io/tags/%EA%B7%80%EB%82%A9%EB%B2%95/</loc>
     <lastmod>2024-01-24T13:37:50+09:00</lastmod>
-  </url><url>
-    <loc>https://246p.github.io/blog/fsharp_2/</loc>
-    <lastmod>2024-01-17T13:09:40+09:00</lastmod>
-  </url><url>
-    <loc>https://246p.github.io/blog/fsharp_1/</loc>
-    <lastmod>2024-01-17T12:57:33+09:00</lastmod>
-  </url><url>
-    <loc>https://246p.github.io/tags/fsharp/</loc>
-    <lastmod>2024-01-17T12:57:33+09:00</lastmod>
-  </url><url>
-    <loc>https://246p.github.io/categories/fsharp/</loc>
-    <lastmod>2024-01-17T12:57:33+09:00</lastmod>
   </url><url>
     <loc>https://246p.github.io/blog/hacking_2/</loc>
     <lastmod>2024-01-10T23:10:32+09:00</lastmod>

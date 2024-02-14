@@ -11,8 +11,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Feb 2024 10:13:45 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 12:48:49 +0900</lastBuildDate>
     <atom:link href="https://246p.github.io/tags/fuzzer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4. Evaluating Fuzz Testing</title>
+      <link>https://246p.github.io/blog/paper_4/</link>
+      <pubDate>Wed, 14 Feb 2024 12:48:49 +0900</pubDate>
+      <guid>https://246p.github.io/blog/paper_4/</guid>
+      <description>Evaluating Fuzz Testing
+0. Abstract Fuzzing은 소프트웨어에서 중요한 버그를 발견하는 좋은 전략이다. 최근 연구자들은 새로운 fuzzing 기술, 전략, 알고리즘을 고안하여 실험적으로 평가하였다. 이 논문에서는 실험적으로 평가하는 과정에서 어떤 experimental setup을 통하여 신뢰할 수 있는 결과를 얻을 수 있는지에 대해 다룬다.
+최근 32의 fuzzing paper이 수행한 실험적 평가(experimental evaluation)를 통해 모든 evaluation에서 문제를 발견하였다. 이후 기존의 fuzzer를 사용하여 자체적인 광범위한 experimental evaluation을 수행하였다.
+우리의 결과는 기존 experimental evaluation에서 발견한 general problem이 실제로 잘못되거나 오해의 소지가 있는 evaluation으로 이어질 수 있음을 보여주었다.</description>
+    </item>
     <item>
       <title>3. Efficient Fuzzing by Principled Search</title>
       <link>https://246p.github.io/blog/paper_3/</link>
